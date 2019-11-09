@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : STM32F429ZIT6.LibPkg
+
+Section : C:\Users\will\Documents\GitHub\STM32_TFT\STM32_Display\STM32F429ZIT6\STM32F429ZIT6.lia
+    Section : PCB Library - STM32F429ZIT6.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token STM32F429ZIT6_SECTION1 On Line 267
+            Warning - 1 : Skipping Token STM32F429ZIT6_SECTION2 On Line 877
+            Warning - 1 : Skipping Token attachedSymbol On Line 1750
+            Warning - 1 : Skipping Token attachedSymbol On Line 1751
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - STM32F429ZIT6.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 230
+            Warning - 1 : Skipping Token layerContents On Line 239
+            Warning - 1 : Skipping Token layerContents On Line 245
+            Warning - 1 : Skipping Token layerContents On Line 254
+        EndSection
+
+        Section : Generating SCH Library - STM32F429ZIT6.SchLib
+        EndSection
+    EndSection
+EndSection
